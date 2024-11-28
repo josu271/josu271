@@ -38,3 +38,14 @@ I'm a computer engineering student, currently in the middle of my degree. I'm ex
   <img src= "https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <img src= "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </span>
+
+## Check out my Social Media
+
+<a href= "https://www.instagram.com/jose_sulla/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+<a href= "https://www.linkedin.com/in/jose-sulla/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<h2>Github stats:</h2> 
