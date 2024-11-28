@@ -49,4 +49,4 @@ I'm a computer engineering student, currently in the middle of my degree. I'm ex
 </a>
 
 <h2>Github stats:</h2> 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=josu2717&layout=compact">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=josu271&layout=compact">
